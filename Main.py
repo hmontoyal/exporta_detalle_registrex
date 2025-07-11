@@ -100,7 +100,7 @@ def main():
         hoja = "DatosEquipamiento"
         columnas_a_exportar = [
             "Marca", "Modelo", "N Serie", "N Serie Bandeja",
-            "Mueble", "IP", "KFS/SDS", "Ubicación", "Piso",
+            "Mueble", "IP", "Contador", "Ubicación", "Piso", "IP","KFS/SDS",  
             "Observacion", "Fecha"
         ]
 
